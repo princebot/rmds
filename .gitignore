@@ -1,0 +1,5 @@
+.vscode/
+.DS_Store
+
+# Ignore top-level directories that begin with __
+/__*/
